@@ -187,13 +187,13 @@ for (let i = 0; i < btns.length; i++) {
             display: flex;
             aling-itens: bottom;
             position: absolute;
-            margin-top: 212px;
+            margin-top: 32vh;
             `;
         newBtn.addEventListener("click", function(){
             tam.style.transition = "height 1s";
             tam.style.height = '30vh';
             oldBtn.style.cssText = `
-                display : block; 
+                display : block;
                 margin-left: (-127.54/2)px;
                 margin-top: 89.54px;
             `;
