@@ -40,6 +40,16 @@
     font-family: 'DM Sans', sans-serif;
     font-size: medium;
 }
+
+#sobre button:hover{
+    transform: scale(1.019);
+    transition: 1s;
+  }
+  
+#sobre button:not(:hover){
+transition: 1s;
+}
+
 @keyframes morph {
     0% {
               border-radius:  60% 45% 35% 70% / 60% 35% 70% 45%;

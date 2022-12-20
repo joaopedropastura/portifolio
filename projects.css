@@ -114,3 +114,12 @@
 .closeDetailsButton{
     padding: 0.5em 0.6em;
 }
+
+.project-box:hover{
+  transform: scale(1.03);
+  transition: 1s;
+}
+
+.project-box:not(:hover){
+  transition: 1s;
+}

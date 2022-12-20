@@ -5,6 +5,14 @@
 	--secudariaP1:#52796F;
     --body-bg-rv: whitesmoke;
     --bs-dark: #212529;
+    --color-red: #52796F;
+    --color-purple: #7a18ec;
+    --color-white: #fff;
+    --color-black-1: #111;
+    --color-black-2: #222;
+    --color-black-3: #444;
+    --speed-normal: 0.5s;
+    --speed-fast: 0.8s;
 
     scroll-behavior: smooth;
 }

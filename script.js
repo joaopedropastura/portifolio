@@ -195,7 +195,7 @@ for (let i = 0; i < btns.length; i++) {
             oldBtn.style.cssText = `
                 display : block;
                 margin-left: (-127.54/2)px;
-                margin-top: 89.54px;
+                margin-top: 123.54px;
             `;
             newBtn.style.display = 'none';
             img.style.height = '30vh';
