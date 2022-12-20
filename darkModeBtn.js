@@ -20,10 +20,7 @@ var theme = "dark";
     }
   }
   function setLight() {
-    root.style.setProperty(
-      "--bs-dark",
-      "#f5f5f5"
-    );
+    root.style.setProperty("--bs-dark","#f5f5f5");
     container.classList.remove("shadow-dark");
     setTimeout(() => {
       container.classList.add("shadow-light");

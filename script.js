@@ -144,15 +144,15 @@
 
 
 
-const $html = document.querySelector("html");
-const $checkbox = document.querySelector("#switch");
+// const $html = document.querySelector("html");
+// const $checkbox = document.querySelector("#switch");
 
-$checkbox.addEventListener('change', function(){
-    $html.classList.toggle('dark-mode');
-});
+// $checkbox.addEventListener('change', function(){
+//     $html.classList.toggle('dark-mode');
+// });
 
-const btn = document.createElement('button');
-const getDetails = document.querySelector('.detailsLinks')
+// const btn = document.createElement('button');
+// const getDetails = document.querySelector('.detailsLinks')
 
 
 var btn1 = document.querySelector("#bt1")
@@ -251,3 +251,5 @@ function closeDescription(){
 function linksDescription(){
     getDetails.style.display = 'block';
 }
+
+
