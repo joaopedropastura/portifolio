@@ -70,7 +70,10 @@ a:visited {
     display: flex;
     gap: 2vw;
 }
-
+.cttDetails img{
+    height: 40px;
+    width: fit-content;
+}
 .cttDetails:hover{
     box-shadow: black 2px 2px 10px;
     transform: scale(1.09);

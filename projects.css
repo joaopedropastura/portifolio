@@ -41,6 +41,7 @@
 }
 .imglink img{
     height: 40px;
+    width: 40px;
 }
 .project-box button{
     position: absolute;
