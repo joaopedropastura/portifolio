@@ -1,5 +1,10 @@
+#projects{
+  padding-top: 10vh;
+  text-align: center;
+  /* gap: 5vh; */
+}
+
 #projetos{
-    padding-top: 10vh;
     /* background-color: var(--body-bg); */
     height: auto;
     display: flex;

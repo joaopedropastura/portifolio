@@ -8,6 +8,8 @@
     height: 90vh;
     padding: 1vw;
 }
+
+
 #intro-text{
     display: flex;
     flex-direction: column;
@@ -69,4 +71,5 @@
 }
 .BackgroundImgDisc img{
     border-radius: 50px;
+    height: 170px;
 }

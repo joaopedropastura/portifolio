@@ -54,6 +54,7 @@ a:visited {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin: 3vw;
     gap: 1vh;
 }
 
@@ -61,4 +62,29 @@ a:visited {
     justify-content: center;
     display: flex;
     gap: 8vw;
+}
+
+
+@media(min-width: 500px) {
+    #projetos{
+        flex-direction: row;
+        height: 70vh;
+    }
+    .project-box{
+        width: 30vw;
+        margin: 2vh;
+    }
+    .closeDetailsButton{
+        left: 93%;
+    }
+    .abilitiesBox{
+        width: 20vw;
+    }
+    .BackgroundImgDisc{
+        width: 350px;
+        height: 350px;
+    }
+    .BackgroundImgDisc img{
+        height: 270px;
+    }
 }
