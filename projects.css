@@ -1,6 +1,6 @@
 #projetos{
     padding-top: 10vh;
-    background-color: var(--body-bg);
+    /* background-color: var(--body-bg); */
     height: auto;
     display: flex;
     flex-direction: column;

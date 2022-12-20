@@ -4,9 +4,12 @@
     --primariaP1: #2F3E46;
 	--secudariaP1:#52796F;
     --body-bg-rv: whitesmoke;
+    --bs-dark: #212529;
+
     scroll-behavior: smooth;
 }
 .dark-mode:root{
+    --bs-dark: whitesmoke;
     --body-bg: whitesmoke;
     --body-color: #899095;
 }
